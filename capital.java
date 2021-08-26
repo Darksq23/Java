@@ -149,70 +149,70 @@ public abstract class capital {
 						{"Oman", "Mascate"},
 						{"Ouganda", "Kampala"},
 						{"Ouzbékistan", "Tachkent"},
-						{"Pakistan", "Islamabad
-		                                                                                Palaos", " 	Ngerulmud
-												Palestine", " 	Ramallah
-												Panama", " 	Panama
-												Papouasie-Nouvelle-Guinée", " 	Port Moresby
-												Paraguay", " 	Asuncion
-												Pays-Bas", " 	Amsterdam
-												Pérou", " 	Lima
-												Philippines", " 	Manille
-												Pologne", " 	Varsovie
-												Portugal", " 	Lisbonne
-												Qatar", " 	Doha
-												République centrafricaine", " 	Bangui
-												République démocratique du Congo", " 	Kinshasa
-												République Dominicaine", " 	Saint-Domingue
-												République du Congo", " 	Brazzaville
-												République tchèque", " 	Prague
-												Roumanie", " 	Bucarest
-												Royaume-Uni", " 	Londres
-												Russie", " 	Moscou
-												Rwanda", " 	Kigali
-												Saint-Kitts-et-Nevis", " 	Basseterre
-												Saint-Vincent-et-les-Grenadines", " 	Kingstown
-												Sainte-Lucie", " 	Castries
-												Saint-Marin", " 	Saint-Marin
-												Salomon", " 	Honiara
-												Salvador", " 	San Salvador
-												Samoa", " 	Apia
-												São Tomé-et-Principe", " 	São Tomé
-												Sénégal", " 	Dakar
-												Serbie", " 	Belgrade
-												Seychelles", " 	Victoria
-												Sierra Leone", " 	Freetown
-												Singapour", " 	Singapour
-												Slovaquie", " 	Bratislava
-												Slovénie", " 	Ljubljana
-												Somalie", " 	Mogadiscio
-												Soudan", " 	Khartoum
-												Soudan du Sud", " 	Djouba
-												Sri Lanka", " 	Sri Jayawardenapura
-												Suède", " 	Stockholm
-												Suisse", " 	Berne
-												Suriname", " 	Paramaribo
-												Syrie", " 	Damas
-												Tadjikistan", " 	Douchanbé
-												Tanzanie", " 	Dodoma
-												Tchad", " 	N’Djaména
-												Thaïlande", " 	Bangkok
-												Timor oriental", " 	Dili
-												Togo", " 	Lomé
-												Tonga", " 	Nukuʻalofa
-												Trinité-et-Tobago", " 	Port-d’Espagne
-												Tunisie", " 	Tunis
-												Turkménistan", " 	Achgabat
-												Turquie", " 	Ankara
-												Tuvalu", " 	Funafuti"}
-												Ukraine", " 	Kiev"}
-												Uruguay", " 	Montevideo"}
-												Vanuatu", " 	Port-Vila"}
-												Vatican", " 	Vatican"}
-												Venezuela", " 	Caracas"}
-												Viêt Nam", " 	Hanoï"}
-												Yémen", " 	Sanaa"}
-												Zambie", " 	Lusaka"}
+						{"Pakistan", "Islamabad"},
+		                                                                                {"Palaos", "Ngerulmud
+												{"Palestine", "Ramallah
+												{"Panama", "Panama
+												{"Papouasie-Nouvelle-Guinée", "Port Moresby
+												{"Paraguay", "Asuncion
+												{"Pays-Bas", "Amsterdam
+												{"Pérou", "Lima
+												{"Philippines", "Manille
+												{"Pologne", "Varsovie
+												{"Portugal", "Lisbonne
+												{"Qatar", "Doha
+												{"République centrafricaine", "Bangui
+												{"République démocratique du Congo", "Kinshasa
+												{"République Dominicaine", "Saint-Domingue
+												{"République du Congo", "Brazzaville
+												{"République tchèque", "Prague
+												{"Roumanie", " Bucarest
+												{"Royaume-Uni", "Londres
+												{"Russie", "Moscou
+												{"Rwanda", "Kigali
+												{"Saint-Kitts-et-Nevis", "Basseterre
+												{"Saint-Vincent-et-les-Grenadines", "Kingstown
+												{"Sainte-Lucie", "Castries
+												{"Saint-Marin", "Saint-Marin
+												{"Salomon", "Honiara
+												{"Salvador", "San Salvador
+												{"Samoa", "Apia
+												{"São Tomé-et-Principe", "São Tomé
+												{"Sénégal", "Dakar
+												{"Serbie", "Belgrade
+												{"Seychelles", "Victoria
+												{"Sierra Leone", "Freetown
+												{"Singapour", "Singapour
+												{"Slovaquie", "Bratislava
+												{"Slovénie", "Ljubljana
+												{"Somalie", "Mogadiscio
+												{"Soudan", "Khartoum
+												{"Soudan du Sud", "Djouba
+												{"Sri Lanka", "Sri Jayawardenapura
+												{"Suède", "Stockholm
+												{"Suisse", "Berne
+												{"Suriname", "Paramaribo
+												{"Syrie", "Damas
+												{"Tadjikistan", "Douchanbé
+												{"Tanzanie", "Dodoma
+												{"Tchad", "N’Djaména
+												{"Thaïlande", "Bangkok
+												{"Timor oriental", "Dili
+												{"Togo", "Lomé
+												{"Tonga", "Nukuʻalofa
+												{"Trinité-et-Tobago", "Port-d’Espagne
+												{"Tunisie", "Tunis
+												{"Turkménistan", "Achgabat
+												{"Turquie", "Ankara
+												{"Tuvalu", "Funafuti"},
+												{"Ukraine", "Kiev"},
+												{"Uruguay", "Montevideo"},
+												{"Vanuatu", "Port-Vila"},
+												{"Vatican", "Vatican"},
+												{"Venezuela", "Caracas"},
+												{"Viêt Nam", "Hanoï"},
+												{"Yémen", "Sanaa"},
+												{"Zambie", "Lusaka"},
 				                                                                {"Zimbabwe ", "Harare"}, };					  
 												
 		JOptionPane.showMessageDialog(null,"\t---------JEUX DE CAPITAL\n-----------------\n");
