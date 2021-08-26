@@ -17,70 +17,68 @@ public abstract class capital {
 		int score = 0, j = 1, repu;
 		boolean b = false;
 		String reponse;
-		String[][] capital = 
-		                 { { "Burundi", "Gitega" },
-				  { "Afrique du Sud" , "Pretoria"},
-				  {"Afghanistan" , "Kaboul"},
-                        	   Albanie 	Tirana
-					Algérie 	Alger
-					Allemagne 	Berlin
-					Andorre 	Andorre-la-Vieille
-					Angola 	Luanda
-					Antigua-et-Barbuda 	Saint John’s
-					Arabie Saoudite 	Riyad
-					Argentine 	Buenos Aires
-					Arménie 	Erevan
-					Australie 	Canberra
-					Autriche 	Vienne
-					Azerbaïdjan 	Bakou
-					Bahamas 	Nassau
-					Bahreïn 	Manama
-					Bangladesh 	Dacca
-					Barbade 	Bridgetown
-					Belgique 	Bruxelles
-					Belize 	Belmopan
-					Bénin 	Porto-Novo
-					Bhoutan 	Thimphou
-					Biélorussie 	Minsk
-					Birmanie 	Naypyidaw
-					Bolivie 	Sucre
-					Bosnie-Herzégovine 	Sarajevo
-					Botswana 	Gaborone
-					Brésil 	Brasilia
-					Brunei 	Bandar Seri Begawan
-					Bulgarie 	Sofia
-					Burkina Faso 	Ouagadougou
-					Burundi 	Gitega
-					Cambodge 	Phnom Penh
-					Cameroun 	Yaoundé
-					Canada 	Ottawa
-					Cap-Vert 	Praia
-					Chili 	Santiago
-					Chine 	Pékin
-					Chypre 	Nicosie
-					Colombie 	Bogota
-					Comores 	Moroni
-					Corée du Nord 	Pyongyang
-					Corée du Sud 	Séoul
-					Costa Rica 	San José
-					Côte d’Ivoire 	Yamoussoukro
-					Croatie 	Zagreb
-					Cuba 	La Havane
-						Danemark 	Copenhague
-						Djibouti 	Djibouti
-						Dominique 	Roseau
-						Égypte 	Le Caire
-						Émirats arabes unis 	Abou Dabi
-						Équateur 	Quito
-						Érythrée 	Asmara
-						Espagne 	Madrid
-						Eswatini 	Mbabane
-						Estonie 	Tallinn
-						États-Unis 	Washington
-						Éthiopie 	Addis-Abeba
-						Fidji 	Suva
-						Finlande 	Helsinki
-						France 	Paris
+		   String[][] capital = {{ "Afrique du Sud" , "Pretoria"},
+				         {"Afghanistan" , "Kaboul"},
+				         {"Albanie", "Tirana"},
+					 {"Algérie ", "	Alger"},
+					 {"Allemagne ", "Berlin"},
+					 {"Andorre", " 	Andorre-la-Vieille"},
+					 {"Angola ", "	Luanda"},
+					 {"Antigua-et-Barbuda", "Saint John’s"},
+					 {"Arabie Saoudite ", "Riyad"},
+					 {"Argentine ", "Buenos Aires"},
+					 {"Arménie ", "	Erevan"},
+					 {"Australie ", "Canberra"},
+					 {"Autriche ", "Vienne"},
+					 {"Azerbaïdjan ", "Bakou"},
+					 {"Bahamas ", "	Nassau"},
+					 {"Bahreïn ", "	Manama"},
+					 {"Bangladesh ", "Dacca"},
+					 {"Barbade ", "	Bridgetown"},
+					 {"Belgique ", "Bruxelles"},
+					 {"Belize ", "	Belmopan"},
+					 {"Bénin ", "	Porto-Novo"},
+					 {"Bhoutan ", "	Thimphou"},
+					 {"Biélorussie", " Minsk"},
+					 {"Birmanie ", "Naypyidaw"},
+					 {"Bolivie ", "	Sucre"},
+					 {"Bosnie-Herzégovine ", "Sarajevo"},
+					 {"Botswana", " Gaborone"},
+					 {"Brésil", " 	Brasilia"},
+					 {"Brunei ", "	Bandar Seri Begawan"},
+					 {"Bulgarie", " Sofia"},
+					 {"Burkina Faso", " Ouagadougou"},
+					 {"Burundi ", "	Gitega"},
+					 {"Cambodge ", "Phnom Penh"},
+					 {"Cameroun ", "Yaoundé"},
+					 {"Canada ", "	Ottawa"},
+					 {"Cap-Vert", " Praia"},
+					 {"Chili ", "	Santiago"},
+					 {"Chine", " 	Pékin"},
+					 {"Chypre", " 	Nicosie"},
+					 {"Colombie", " Bogota"},
+					 {"Comores", " 	Moroni"},
+					 {"Corée du Nord", " Pyongyang"},
+					 {"Corée du Sud", " Séoul"},
+					 {"Costa Rica", " San José"},
+					 {"Côte d’Ivoire", "Yamoussoukro"},
+					 {"Croatie", "Zagreb"},
+					 {"Cuba", "La Havane"},
+						Danemark 	Copenhague"},
+						Djibouti 	Djibouti"},
+						Dominique 	Roseau"},
+						Égypte 	Le Caire"},
+						Émirats arabes unis 	Abou Dabi"},
+						Équateur 	Quito"},
+						Érythrée 	Asmara"},
+						Espagne 	Madrid"},
+						Eswatini 	Mbabane"},
+						Estonie 	Tallinn"},
+						États-Unis 	Washington"},
+						Éthiopie 	Addis-Abeba"},
+						Fidji 	Suva"},
+						Finlande 	Helsinki"},
+						France 	Paris"},
 						Gabon 	Libreville
 						Gambie 	Banjul
 						Géorgie 	Tbilissi
