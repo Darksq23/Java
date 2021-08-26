@@ -215,7 +215,7 @@ public abstract class capital {
 			                                {"Zambie", "Lusaka"},
 				                        {"Zimbabwe ", "Harare"}, };			  
 												
-		JOptionPane.showMessageDialog(null,"\t---------JEUX DE CAPITAL\n-----------------\n");
+		JOptionPane.showMessageDialog(null,"\t===============JEUX DE HASARD DE CAPITAL\n=============\n");
 		System.out.println("Regles:\n"
 				+ "1. Donnez en reponse la capitale du pays qui vous sera demande\n"
 				+ "2. A chaque bonne reponse votre score augmente d'un point\n"
